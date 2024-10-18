@@ -24,7 +24,7 @@ To run this application locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/rule-evaluation-app.git
+   git clone https://github.com/chahatgupta1234/Rule-Engine-with-AST.git
    cd rule-evaluation-app
 
 
@@ -57,22 +57,6 @@ Evaluate a Rule:
 
 Select a rule from the dropdown list and input the required attributes (age, department, experience, salary). Click on "Evaluate" to see the result.
 View Existing Rules:
-
-The application displays a list of all created rules in the "Rule List" section.
-rule-evaluation-app/
-├── backend/
-│   ├── models/             # Database models
-│   ├── routes/             # API routes
-│   ├── controllers/        # Business logic
-│   ├── .env                # Environment variables
-│   └── server.js           # Entry point for the backend
-└── frontend/
-    ├── src/
-    │   ├── components/     # React components
-    │   ├── api/            # API calls
-    │   └── App.js          # Main React component
-    └── public/
-        └── index.html      # Main HTML file
 
 Security and Performance Considerations
 Input Validation: Ensured user inputs are validated before processing to prevent injection attacks.
