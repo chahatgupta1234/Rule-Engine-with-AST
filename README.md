@@ -1,4 +1,5 @@
-Rule Evaluation Application
+**Rule Evaluation Application**
+
 Overview
 The Rule Evaluation Application is a web-based tool designed to create, evaluate, and manage rules based on user-defined conditions. This application allows users to input various attributes such as age, department, experience, and salary, and evaluates rules accordingly. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), this application showcases effective rule parsing and evaluation techniques.
 
